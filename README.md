@@ -59,8 +59,8 @@ A critical architectural decision was made regarding the relationship between **
 ## 📌 Main API Endpoints
 
 ### 🔑 Authentication (`api/Auth`)
-- `POST /api/auth/register` - Register a new user account.
-- `POST /api/auth/login` - Login to receive a JWT Token (Valid for 12 hours).
+- `POST /api/account/register` - Register a new user account.
+- `POST /api/account/login` - Login to receive a JWT Token (Valid for 12 hours).
 
 ### 📂 Projects (`api/Project`)
 - `GET /api/project` - Retrieves all projects belonging to the logged-in user (Lightweight payload).
