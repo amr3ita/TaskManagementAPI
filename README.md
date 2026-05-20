@@ -6,7 +6,7 @@ Welcome to the **Task Management System API** – a robust, enterprise-grade RES
 
 ## 🛠️ Tech Stack & Architecture
 
-- **Framework:** .NET Core 8.0 / 9.0 (ASP.NET Core Web API)
+- **Framework:** .NET 9.0 (ASP.NET Core Web API)
 - **Database Provider:** Entity Framework Core (EF Core) with SQL Server
 - **Security & Identity:** ASP.NET Core Identity with JWT Authentication
 - **Architecture Pattern:** Clean Architecture with Repository Pattern
