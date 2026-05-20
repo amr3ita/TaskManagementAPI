@@ -58,7 +58,7 @@ A critical architectural decision was made regarding the relationship between **
 
 ## 📌 Main API Endpoints
 
-### 🔑 Authentication (`api/Auth`)
+### 🔑 Authentication (`api/Account`)
 - `POST /api/account/register` - Register a new user account.
 - `POST /api/account/login` - Login to receive a JWT Token (Valid for 12 hours).
 
